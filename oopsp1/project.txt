@@ -1,0 +1,8 @@
+Website development
+Sushi-Kushi
+60000
+Uzliuk Iryna
+Tales
+Lisovska Viktoriya, Suska Nadia
+Create a visually appealing website for a sushi restaurant that allows customers to browse the menu and place orders online.
+Domain Name and Hosting; Content Management System (CMS); Database; Frontend Libraries/Frameworks; Payment Gateway; Image Resources; Development Tools; Analytics; SEO Tools; Customer Support.
